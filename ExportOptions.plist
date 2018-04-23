@@ -7,11 +7,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://www.abc.com/easydl.ipa</string>
+		<string>ftp://yq01-ecom-holmes22-20150818112825.yq01.baidu.com:8100/ggit/baidu/dragonboat/ios-sdk/output/easydl.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://www.abc.com/easydl.png</string>
+		<string>ftp://yq01-ecom-holmes22-20150818112825.yq01.baidu.com:8100/ggit/baidu/dragonboat/ios-sdk/output/57x57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://www.abc.com/easydl.png</string>
+		<string>ftp://yq01-ecom-holmes22-20150818112825.yq01.baidu.com:8100/ggit/baidu/dragonboat/ios-sdk/output/120x120.jpg</string>
 	</dict>
 	<key>method</key>
 	<string>enterprise</string>

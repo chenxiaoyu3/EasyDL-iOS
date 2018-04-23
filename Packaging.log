@@ -1,0 +1,392 @@
+2018-04-23 05:37:05 +0000 [MT] Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fb633269c20; archive(resolved)='<IDEArchive: 0x7fb63321fe60>', distributionTask(resolved)='2', distributionMethod(resolved)='<IDEDistributionMethodiOSEnterprise: 0x7fb630724610>', team(resolved)='<IDEProvisioningBasicTeam 0x7fb63324abc0: teamID: 6T9LLJKSM4, teamName: (null)>'>
+	Chain (11, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fb633269c20; archive = '<IDEArchive: 0x7fb63321fe60>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fb630724610>', team='<IDEProvisioningBasicTeam 0x7fb63324abc0: teamID: 6T9LLJKSM4, teamName: (null)>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fb633276d50; archive = '<IDEArchive: 0x7fb63321fe60>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fb630724610>', team='<IDEProvisioningBasicTeam 0x7fb63324abc0: teamID: 6T9LLJKSM4, teamName: (null)>'>
+	<IDEDistributionContext: 0x7fb633263060; archive = '<IDEArchive: 0x7fb63321fe60>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fb630724610>', team='<IDEProvisioningBasicTeam 0x7fb63324abc0: teamID: 6T9LLJKSM4, teamName: (null)>'>
+	<IDEDistributionContext: 0x7fb6332739d0; archive = '<IDEArchive: 0x7fb63321fe60>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fb630724610>', team='<IDEProvisioningBasicTeam 0x7fb63324abc0: teamID: 6T9LLJKSM4, teamName: (null)>'>
+	<IDEDistributionContext: 0x7fb6332727f0; archive = '<IDEArchive: 0x7fb63321fe60>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fb630724610>', team='<IDEProvisioningBasicTeam 0x7fb63324abc0: teamID: 6T9LLJKSM4, teamName: (null)>'>
+	<IDEDistributionContext: 0x7fb633270830; archive = '<IDEArchive: 0x7fb63321fe60>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fb630724610>', team='<IDEProvisioningBasicTeam 0x7fb63324abc0: teamID: 6T9LLJKSM4, teamName: (null)>'>
+	<IDEDistributionContext: 0x7fb63326e4c0; archive = '<IDEArchive: 0x7fb63321fe60>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fb630724610>', team='<IDEProvisioningBasicTeam 0x7fb63324abc0: teamID: 6T9LLJKSM4, teamName: (null)>'>
+	<IDEDistributionContext: 0x7fb63326bbe0; archive = '<IDEArchive: 0x7fb63321fe60>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fb630724610>', team='<IDEProvisioningBasicTeam 0x7fb63324abc0: teamID: 6T9LLJKSM4, teamName: (null)>'>
+	<IDEDistributionContext: 0x7fb63312a860; archive = '<IDEArchive: 0x7fb63321fe60>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fb630724610>', team='<IDEProvisioningBasicTeam 0x7fb63324abc0: teamID: 6T9LLJKSM4, teamName: (null)>'>
+	<IDEDistributionContext: 0x7fb63336bf10; archive = '<IDEArchive: 0x7fb63321fe60>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fb630724610>', team='(null)'>
+	<IDEDistributionContext: 0x7fb633220c20; archive = '<IDEArchive: 0x7fb63321fe60>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fb633269c20>
+2018-04-23 05:37:05 +0000 [MT] Processing step: IDEDistributionCreateDestRootStep
+2018-04-23 05:37:05 +0000 [MT] Processing step: IDEDistributionCopyItemStep
+2018-04-23 05:37:05 +0000 [MT] Running /usr/bin/ditto '-V' '/Users/baidu/GodHere/Baidu/ggit/baidu/dragonboat/ios-sdk/EasyDL/EasyDL.xcarchive/Products/Applications/EasyDL.app' '/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/XcodeDistPipeline.FXE/Root/Payload/EasyDL.app'
+2018-04-23 05:37:05 +0000  >>> Copying /Users/baidu/GodHere/Baidu/ggit/baidu/dragonboat/ios-sdk/EasyDL/EasyDL.xcarchive/Products/Applications/EasyDL.app 
+2018-04-23 05:37:05 +0000  copying file ./_CodeSignature/CodeResources ... 
+2018-04-23 05:37:05 +0000  5407 bytes for ./_CodeSignature/CodeResources
+2018-04-23 05:37:05 +0000  copying file ./archived-expanded-entitlements.xcent ... 
+2018-04-23 05:37:05 +0000  370 bytes for ./archived-expanded-entitlements.xcent
+2018-04-23 05:37:05 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2018-04-23 05:37:05 +0000  1985 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2018-04-23 05:37:05 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2018-04-23 05:37:05 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2018-04-23 05:37:05 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2018-04-23 05:37:05 +0000  832 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2018-04-23 05:37:05 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2018-04-23 05:37:05 +0000  1986 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2018-04-23 05:37:05 +0000  258 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2018-04-23 05:37:05 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2018-04-23 05:37:05 +0000  916 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2018-04-23 05:37:05 +0000  copying file ./build.sh ... 
+2018-04-23 05:37:05 +0000  735 bytes for ./build.sh
+2018-04-23 05:37:05 +0000  copying file ./EasyDL ... 
+2018-04-23 05:37:05 +0000  242432 bytes for ./EasyDL
+2018-04-23 05:37:05 +0000  copying file ./embedded.mobileprovision ... 
+7616 bytes for ./embedded.mobileprovision
+copying file ./Info.plist ... 
+2018-04-23 05:37:05 +0000  1108 bytes for ./Info.plist
+2018-04-23 05:37:05 +0000  copying file ./PkgInfo ... 
+2018-04-23 05:37:05 +0000  8 bytes for ./PkgInfo
+2018-04-23 05:37:05 +0000 [MT] /usr/bin/ditto exited with 0
+2018-04-23 05:37:05 +0000 [MT] Processing step: IDEDistributionEmbedProfileStep
+2018-04-23 05:37:05 +0000 [MT] Processing step: IDEDistributionAppThinningPlistStep
+2018-04-23 05:37:05 +0000 [MT] Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2018-04-23 05:37:05 +0000 [MT] Processing step: IDEDistributionCompileBitcodeStep
+2018-04-23 05:37:05 +0000 [MT] Running /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool '/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/XcodeDistPipeline.FXE/Root' '--json' '/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool-json-filepath-Hq95dP' '--compile-bitcode' '--output' '/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/IDEIPAProcessor.AppThinning.AIZ' '--toolchain' '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr' '--platforms' '/Applications/Xcode.app/Contents/Developer/Platforms'
+2018-04-23 05:37:05 +0000  ruby 2.0.0p648 (2015-12-16 revision 53162) [universal.x86_64-darwin16]
+2018-04-23 05:37:05 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1593: warning: assigned but unused variable - minVersion
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1593: warning: assigned but unused variable - sdkVersion
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1602: warning: assigned but unused variable - sourceVersion
+2018-04-23 05:37:05 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1703: warning: shadowing outer local variable - node
+2018-04-23 05:37:05 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2470: warning: shadowing outer local variable - machoFile
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2470: warning: shadowing outer local variable - machoImage
+2018-04-23 05:37:05 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2662: warning: assigned but unused variable - flag
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2662: warning: assigned but unused variable - transformer
+2018-04-23 05:37:05 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2912: warning: assigned but unused variable - exc
+2018-04-23 05:37:05 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:738: warning: assigned but unused variable - output
+2018-04-23 05:37:05 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/libxml-ruby-2.6.0/lib/libxml/schema/type.rb:8: warning: method redefined; discarding old annotation
+2018-04-23 05:37:05 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/libxml-ruby-2.6.0/lib/libxml/schema/element.rb:18: warning: method redefined; discarding old annotation
+2018-04-23 05:37:06 +0000  OS X 10.12.6 16G1314
+2018-04-23 05:37:06 +0000  ENV: {"ANDROID_NDK"=>"/Users/baidu/Library/Android/sdk/ndk-bundle", "OLDPWD"=>"/baidu/ggit/baidu/dragonboat/ios-sdk", "SSH_AUTH_SOCK"=>"/private/tmp/com.apple.launchd.kv65ynY9FT/Listeners", "PAGER"=>"less", "SHELL"=>"/bin/zsh", "LESS"=>"-R", "XPC_SERVICE_NAME"=>"0", "ITERM_SESSION_ID"=>"w0t10p0:85FB3308-97BE-4BFC-A206-3173E57221C5", "ANDROID_SDK_ROOT"=>"/usr/local/Cellar/android-sdk/24.4.1_1", "VLC_PLUGIN_PATH"=>"/Applications/VLC.app/Contents/MacOS/plugins", "TERM_PROGRAM_VERSION"=>"3.1.5", "LANG"=>"zh_CN.UTF-8", "HOME"=>"/Users/baidu", "PWD"=>"/baidu/ggit/baidu/dragonboat/ios-sdk/EasyDL", "TMPDIR"=>"/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/", "COCOS_TEMPLATES_ROOT"=>"/Volumes/SHARE/Coding/cocos2dx/cocos2d-x-3.13.1/templates", "SHLVL"=>"1", "XPC_FLAGS"=>"0x0", "PATH"=>"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin", "TERM"=>"xterm-256color", "ITERM_PROFILE"=>"Default", "TERM_PROGRAM"=>"iTerm.app", "LSCOLORS"=>"Gxfxcxdxbxegedabagacad", "USER"=>"chenxiaoyu", "TERM_SESSION_ID"=>"w0t10p0:85FB3308-97BE-4BFC-A206-3173E57221C5", "COLORTERM"=>"truecolor", "ZSH"=>"/Users/baidu/.oh-my-zsh", "COLORFGBG"=>"7;0", "Apple_PubSub_Socket_Render"=>"/private/tmp/com.apple.launchd.SS1aqky64r/Render", "DOCKER_HOST"=>"tcp://szth-aip-m12-tianzhi34.szth.baidu.com:8375", "COCOS_CONSOLE_ROOT"=>"/Volumes/SHARE/Coding/cocos2dx/cocos2d-x-3.13.1/tools/cocos2d-console/bin", "COCOS_X_ROOT"=>"/Volumes/SHARE/Coding/cocos2dx", "SECURITYSESSIONID"=>"186a7", "LOGNAME"=>"chenxiaoyu", "VLC_PATH"=>"/Applications/VLC.app/Contents/MacOS/lib", "_"=>"/usr/bin/xcodebuild", "LC_CTYPE"=>"zh_CN.UTF-8", "__CF_USER_TEXT_ENCODING"=>"0x1F5:0x19:0x34", "TF"=>"/Users/baidu/LibSrc/tensorflow-1.6.0/"}
+ARGV: ["/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/XcodeDistPipeline.FXE/Root", "--json", "/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool-json-filepath-Hq95dP", "--compile-bitcode", "--output", "/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/IDEIPAProcessor.AppThinning.AIZ", "--toolchain", "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr", "--platforms", "/Applications/Xcode.app/Contents/Developer/Platforms"]
+2018-04-23 05:37:06 +0000  warning: Configuration issue: platform AppleTVSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2018-04-23 05:37:06 +0000  warning: Configuration issue: platform iPhoneSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2018-04-23 05:37:06 +0000  warning: Configuration issue: platform WatchSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2018-04-23 05:37:06 +0000  Scanning IPA...
+2018-04-23 05:37:06 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature EasyDL
+2018-04-23 05:37:06 +0000      /usr/bin/python exited with pid 49834 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-04-23 05:37:06 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) archived-expanded-entitlements.xcent EasyDL
+2018-04-23 05:37:06 +0000      /usr/bin/python exited with pid 49835 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-04-23 05:37:06 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Base.lproj EasyDL
+2018-04-23 05:37:06 +0000      /usr/bin/python exited with pid 49836 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-04-23 05:37:06 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) build.sh EasyDL
+2018-04-23 05:37:06 +0000      /usr/bin/python exited with pid 49837 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-04-23 05:37:06 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) EasyDL EasyDL
+2018-04-23 05:37:07 +0000      /usr/bin/python exited with pid 49838 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-04-23 05:37:07 +0000  Complete LinkageGraph:
+    EasyDL.app/EasyDL armv7 ->
+    
+    EasyDL.app/EasyDL arm64 ->
+2018-04-23 05:37:07 +0000  Validating IPA structure...
+2018-04-23 05:37:07 +0000  Compiling bitcode...
+2018-04-23 05:37:07 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool -v -t /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk -o /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/armv7/Payload/EasyDL.app/EasyDL --generate-dsym /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/armv7/Payload/EasyDL.app/EasyDL.dSYM --strip-swift-symbols /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/armv7/Payload/EasyDL.app/EasyDL
+2018-04-23 05:37:07 +0000    Compiling bitcode for armv7...
+    Compiling armv7 bitcode in 'EasyDL'
+2018-04-23 05:37:08 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool exited with pid 49862 exit 0
+    Stdout:
+        Debug: SDK path: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk
+        Debug: PATH: ['/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin', '/Applications/Xcode.app/Contents/Developer/usr/bin']
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo
+        MachoInfo: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo" "-info" "/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/armv7/Payload/EasyDL.app/EasyDL" 
+        -= Output =-
+        Non-fat file: /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/armv7/Payload/EasyDL.app/EasyDL is architecture: armv7
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/armv7/Payload/EasyDL.app/EasyDL" 
+        -= Output =-
+        UUID: 6F2068D8-2E53-305F-80E3-2A11E8A046A0 (armv7) /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/armv7/Payload/EasyDL.app/EasyDL
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit
+        ExtractXAR: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit" "/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/armv7/Payload/EasyDL.app/EasyDL" "-extract" "__LLVM" "__bundle" "/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/EasyDLY8TGVF/EasyDL.armv7.xar" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Bitcode bundle version: 1.0
+        Debug: Setting platform to: iPhoneOS
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+        Clang: cd /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/templ7Gee2
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios9.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "1" "-o" "1.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/templ7Gee2
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios9.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "2" "-o" "2.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/templ7Gee2
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios9.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "3" "-o" "3.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.
+2018-04-23 05:37:08 +0000  app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd
+        Ld: cd /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/templ7Gee2
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" "-arch" "armv7" "-execute" "-ios_version_min" "9.0.0" "-e" "_main" "-rpath" "@executable_path/Frameworks" "-executable_path" "/Users/baidu/Library/Developer/Xcode/DerivedData/EasyDL-cxjtitadnazjjfhfjtpzmkzjgynb/Build/Intermediates.noindex/ArchiveIntermediates/EasyDL/IntermediateBuildFilesPath/EasyDL.build/Release-iphoneos/EasyDL.build/Objects-normal/armv7/EasyDL" "-dead_strip" "-syslibroot" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk" "-sdk_version" "11.2.0" "-filelist" "/private/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/EasyDLY8TGVF/EasyDL.armv7.out.LinkFileList" "-ignore_auto_link" "-allow_dead_duplicates" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd" "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.ios.a" "-o" "/private/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/EasyDLY8TGVF/EasyDL.armv7.out" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        warning: Cannot genarte useful dsym from input macho file: /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/armv7/Payload/EasyDL.app/EasyDL
+        
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/armv7/Payload/EasyDL.app/EasyDL" 
+        -= Output =-
+        UUID: 41737071-4AB4-3CA5-ABA4-920D5B998A1F (armv7) /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/armv7/Payload/EasyDL.app/EasyDL
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil
+        Dsymutil: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil" "/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/armv7/Payload/EasyDL.app/EasyDL" "-o" "/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/armv7/Payload/EasyDL.app/EasyDL.dSYM" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip
+        StripSymbols: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip" "/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0
+2018-04-23 05:37:08 +0000  000gn/T/ipatool20180423-49801-h3h115/thinned/armv7/Payload/EasyDL.app/EasyDL" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+    
+    Stderr:
+2018-04-23 05:37:08 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols -failIfMissingDsym -symbolsPackageDir /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/armv7/Payload/EasyDL.app /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/armv7/Payload/EasyDL.app/EasyDL
+2018-04-23 05:37:08 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with pid 49878 exit 0
+    Stdout:
+        /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/armv7/Payload/EasyDL.app/EasyDL [armv7, 0.000678 seconds]:
+    
+    Stderr:
+2018-04-23 05:37:08 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool -v -t /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk -o /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/arm64/Payload/EasyDL.app/EasyDL --generate-dsym /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/arm64/Payload/EasyDL.app/EasyDL.dSYM --strip-swift-symbols /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/arm64/Payload/EasyDL.app/EasyDL
+2018-04-23 05:37:08 +0000    Compiling bitcode for arm64...
+    Compiling arm64 bitcode in 'EasyDL'
+2018-04-23 05:37:09 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool exited with pid 49887 exit 0
+    Stdout:
+        Debug: SDK path: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk
+        Debug: PATH: ['/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin', '/Applications/Xcode.app/Contents/Developer/usr/bin']
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo
+        MachoInfo: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo" "-info" "/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/arm64/Payload/EasyDL.app/EasyDL" 
+        -= Output =-
+        Non-fat file: /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/arm64/Payload/EasyDL.app/EasyDL is architecture: arm64
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/arm64/Payload/EasyDL.app/EasyDL" 
+        -= Output =-
+        UUID: 76E32EEA-DA34-311D-A9A6-524FC48FB4FC (arm64) /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/arm64/Payload/EasyDL.app/EasyDL
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit
+        ExtractXAR: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit" "/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/arm64/Payload/EasyDL.app/EasyDL" "-extract" "__LLVM" "__bundle" "/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/EasyDL9SS4mH/EasyDL.arm64.xar" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Bitcode bundle version: 1.0
+        Debug: Setting platform to: iPhoneOS
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+        Clang: cd /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/tempYou3lD
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios9.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "1" "-o" "1.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/tempYou3lD
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios9.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "2" "-o" "2.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/tempYou3lD
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios9.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "3" "-o" "3.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/
+2018-04-23 05:37:09 +0000  iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd
+        Ld: cd /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/tempYou3lD
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" "-arch" "arm64" "-execute" "-ios_version_min" "9.0.0" "-e" "_main" "-rpath" "@executable_path/Frameworks" "-executable_path" "/Users/baidu/Library/Developer/Xcode/DerivedData/EasyDL-cxjtitadnazjjfhfjtpzmkzjgynb/Build/Intermediates.noindex/ArchiveIntermediates/EasyDL/IntermediateBuildFilesPath/EasyDL.build/Release-iphoneos/EasyDL.build/Objects-normal/arm64/EasyDL" "-dead_strip" "-syslibroot" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk" "-sdk_version" "11.2.0" "-filelist" "/private/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/EasyDL9SS4mH/EasyDL.arm64.out.LinkFileList" "-ignore_auto_link" "-allow_dead_duplicates" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd" "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.ios.a" "-o" "/private/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/EasyDL9SS4mH/EasyDL.arm64.out" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        warning: Cannot genarte useful dsym from input macho file: /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/arm64/Payload/EasyDL.app/EasyDL
+        
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/arm64/Payload/EasyDL.app/EasyDL" 
+        -= Output =-
+        UUID: 3B3E1036-36F2-3A04-BD45-2773E128769D (arm64) /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/arm64/Payload/EasyDL.app/EasyDL
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil
+        Dsymutil: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil" "/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/arm64/Payload/EasyDL.app/EasyDL" "-o" "/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/arm64/Payload/EasyDL.app/EasyDL.dSYM" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip
+        StripSymbols: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip" "/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/arm64/Payload/EasyDL.
+2018-04-23 05:37:09 +0000  app/EasyDL" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+    
+    Stderr:
+2018-04-23 05:37:09 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols -failIfMissingDsym -symbolsPackageDir /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/arm64/Payload/EasyDL.app /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/arm64/Payload/EasyDL.app/EasyDL
+2018-04-23 05:37:09 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with pid 49903 exit 0
+    Stdout:
+        /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/ipatool20180423-49801-h3h115/thinned/arm64/Payload/EasyDL.app/EasyDL [arm64, 0.001817 seconds]:
+    
+    Stderr:
+2018-04-23 05:37:09 +0000  Creating universal IPA contents for all devices
+  Creating directory /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/IDEIPAProcessor.AppThinning.AIZ/universal
+  Copying EasyDL.app output payload directory
+2018-04-23 05:37:09 +0000    Copying .dSYM files to /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/IDEIPAProcessor.AppThinning.AIZ/universal/dSYMs
+  Copying .symbols files to /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/IDEIPAProcessor.AppThinning.AIZ/universal/Symbols
+2018-04-23 05:37:09 +0000 [MT] /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool exited with 0
+2018-04-23 05:37:09 +0000 [MT] ipatool JSON: {
+    alerts =     (
+                {
+            code = 2817;
+            description = "Configuration issue: platform AppleTVSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        },
+                {
+            code = 2817;
+            description = "Configuration issue: platform iPhoneSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        },
+                {
+            code = 2817;
+            description = "Configuration issue: platform WatchSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        }
+    );
+    thinnableAssetCatalogs =     (
+    );
+    universalIPA =     {
+        path = "/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/IDEIPAProcessor.AppThinning.AIZ/universal";
+    };
+}
+2018-04-23 05:37:09 +0000 [MT] Processing step: IDEDistributionCodeSlimmingStep
+2018-04-23 05:37:09 +0000 [MT] Processing step: IDEDistributionCopyBCSymbolMapsStep
+2018-04-23 05:37:09 +0000 [MT] Processing step: IDEDistributionSymbolsStep
+2018-04-23 05:37:09 +0000 [MT] Skipping step: IDEDistributionSymbolsStep because it said so
+2018-04-23 05:37:09 +0000 [MT] Processing step: IDEDistributionAppThinningStep
+2018-04-23 05:37:09 +0000 [MT] Skipping step: IDEDistributionAppThinningStep because it said so
+2018-04-23 05:37:09 +0000 [MT] Processing step: IDEDistributionODRStep
+2018-04-23 05:37:09 +0000 [MT] Processing step: IDEDistributionStripXattrsStep
+2018-04-23 05:37:09 +0000 [MT] Running /usr/bin/xattr '-crs' '/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/XcodeDistPipeline.FXE/Root/Payload/EasyDL.app'
+2018-04-23 05:37:09 +0000 [MT] /usr/bin/xattr exited with 0
+2018-04-23 05:37:09 +0000 [MT] Processing step: IDEDistributionCodesignStep
+2018-04-23 05:37:09 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fb633250570 'com.baidu.easyai' '<DVTFilePath:0x7fb6332203c0:'/Users/baidu/GodHere/Baidu/ggit/baidu/dragonboat/ios-sdk/EasyDL/EasyDL.xcarchive/Products/Applications/EasyDL.app'>'> from <IDEiCloudEntitlementsProcessor: 0x7fb63326f790>: {
+}
+2018-04-23 05:37:09 +0000 [MT] Entitlements for <IDEDistributionItem: 0x7fb633250570 'com.baidu.easyai' '<DVTFilePath:0x7fb6332203c0:'/Users/baidu/GodHere/Baidu/ggit/baidu/dragonboat/ios-sdk/EasyDL/EasyDL.xcarchive/Products/Applications/EasyDL.app'>'>: {
+    "application-identifier" = "6T9LLJKSM4.com.baidu.easyai";
+    "com.apple.developer.team-identifier" = 6T9LLJKSM4;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "6T9LLJKSM4.com.baidu.easyai"
+    );
+}
+2018-04-23 05:37:09 +0000 [MT] Writing entitlements for <IDEDistributionItem: 0x7fb633250570 'com.baidu.easyai' '<DVTFilePath:0x7fb6332203c0:'/Users/baidu/GodHere/Baidu/ggit/baidu/dragonboat/ios-sdk/EasyDL/EasyDL.xcarchive/Products/Applications/EasyDL.app'>'> to: /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/XcodeDistPipeline.FXE/entitlementsCPf1ru
+2018-04-23 05:37:09 +0000 [MT] Running /usr/bin/codesign '-vvv' '--force' '--sign' '61A88DFC6C1461170F748580D2966646DE40C1E4' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/XcodeDistPipeline.FXE/entitlementsCPf1ru' '/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/XcodeDistPipeline.FXE/Root/Payload/EasyDL.app'
+2018-04-23 05:37:09 +0000  /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/XcodeDistPipeline.FXE/Root/Payload/EasyDL.app: signed app bundle with Mach-O universal (armv7 arm64) [com.baidu.easyai]
+2018-04-23 05:37:09 +0000 [MT] /usr/bin/codesign exited with 0
+2018-04-23 05:37:09 +0000 [MT] Processing step: IDEDistributionStreamingZipItemStep
+2018-04-23 05:37:09 +0000 [MT] Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-04-23 05:37:09 +0000 [MT] Processing step: IDEDistributionCreateIPAStep
+2018-04-23 05:37:09 +0000 [MT] Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/XcodeDistPipeline.FXE/Root' '/var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/XcodeDistPipeline.FXE/Packages/EasyDL.ipa'
+2018-04-23 05:37:09 +0000  >>> Copying /var/folders/lk/ck_f4msx3zl_c0t10kfv5w_m0000gn/T/XcodeDistPipeline.FXE/Root 
+2018-04-23 05:37:09 +0000  copying file ./Payload/EasyDL.app/_CodeSignature/CodeResources ... 
+2018-04-23 05:37:09 +0000  5407 bytes for ./Payload/EasyDL.app/_CodeSignature/CodeResources
+2018-04-23 05:37:09 +0000  copying file ./Payload/EasyDL.app/archived-expanded-entitlements.xcent ... 
+370 bytes for ./Payload/EasyDL.app/archived-expanded-entitlements.xcent
+2018-04-23 05:37:09 +0000  copying file ./Payload/EasyDL.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2018-04-23 05:37:09 +0000  1985 bytes for ./Payload/EasyDL.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/EasyDL.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2018-04-23 05:37:09 +0000  258 bytes for ./Payload/EasyDL.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/EasyDL.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2018-04-23 05:37:09 +0000  832 bytes for ./Payload/EasyDL.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/EasyDL.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2018-04-23 05:37:09 +0000  1986 bytes for ./Payload/EasyDL.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/EasyDL.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2018-04-23 05:37:09 +0000  258 bytes for ./Payload/EasyDL.app/Base.lproj/Main.storyboardc/Info.plist
+copying file ./Payload/EasyDL.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2018-04-23 05:37:09 +0000  916 bytes for ./Payload/EasyDL.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Payload/EasyDL.app/build.sh ... 
+2018-04-23 05:37:09 +0000  735 bytes for ./Payload/EasyDL.app/build.sh
+copying file ./Payload/EasyDL.app/EasyDL ... 
+2018-04-23 05:37:09 +0000  143504 bytes for ./Payload/EasyDL.app/EasyDL
+copying file ./Payload/EasyDL.app/embedded.mobileprovision ... 
+2018-04-23 05:37:09 +0000  7616 bytes for ./Payload/EasyDL.app/embedded.mobileprovision
+copying file ./Payload/EasyDL.app/Info.plist ... 
+2018-04-23 05:37:09 +0000  2344 bytes for ./Payload/EasyDL.app/Info.plist
+copying file ./Payload/EasyDL.app/PkgInfo ... 
+8 bytes for ./Payload/EasyDL.app/PkgInfo
+2018-04-23 05:37:09 +0000 [MT] /usr/bin/ditto exited with 0
+2018-04-23 05:37:09 +0000 [MT] Processing step: IDEDistributionCreateManifestStep
