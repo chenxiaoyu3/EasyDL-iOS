@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>ftp://yq01-ecom-holmes22-20150818112825.yq01.baidu.com:8100/ggit/baidu/dragonboat/ios-sdk/output/easydl.ipa</string>
+					<string>https://github.com/chenxiaoyu3/EasyDL-iOS/raw/master/EasyDL.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>ftp://yq01-ecom-holmes22-20150818112825.yq01.baidu.com:8100/ggit/baidu/dragonboat/ios-sdk/output/57x57.png</string>
+					<string>https://raw.githubusercontent.com/chenxiaoyu3/EasyDL-iOS/master/easydl.jpeg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>ftp://yq01-ecom-holmes22-20150818112825.yq01.baidu.com:8100/ggit/baidu/dragonboat/ios-sdk/output/120x120.jpg</string>
+					<string>https://raw.githubusercontent.com/chenxiaoyu3/EasyDL-iOS/master/easydl.jpeg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
